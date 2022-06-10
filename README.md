@@ -3,11 +3,11 @@
 ## Backend Enginner fascinated about PLT (Programming Language Theory) 🤷🏻‍♂️
 
 ## (you can call me Enzito = Enzo + ito). You can find me out there drinking coffee and doing some programming with Benchi, the mind behind my codes, my cat 🐱.
-
-## About me:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/106115847/171254797-879b392b-9efa-4d8c-899c-1d02e3ff6520.gif" width=160 height=160>
 </p>
+
+## About me:
 - Passionate about the Open Source community and also about Linux, obviously. I always try to contribute to a cool project when I can.
 - I love studying Type theory and WebAssembly, currently studying a bit of Ocaml and System design
 - I'm always open to helping. Feel free to message me!
