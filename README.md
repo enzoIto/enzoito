@@ -1,22 +1,25 @@
-### Opa, tudo bem? Sou o Enzo (pode me chamar de Enzito = Enzo + ito), Backend dev do MadeiraMadeira. Você pode me encontrar por ai tomando café e fazendo pair programming com o Benchi, a mente por trás dos meus códigos, meu gato 🐱. 
+# Sup, I'm Enzo. 
+
+## Backend Enginner fascinated about PLT (Programming Language Theory) 🤷🏻‍♂️
+
+## (you can call me Enzito = Enzo + ito). You can find me out there drinking coffee and doing some programming with Benchi, the mind behind my codes, my cat 🐱.
+
+## About me:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/106115847/171254797-879b392b-9efa-4d8c-899c-1d02e3ff6520.gif" width=160 height=160>
 </p>
-- Apaixonado pela comunidade Open Source e por Linux também, obviamente. Sempre tento contribuir em um projeto legal quando posso.
-- Adoro estudar Type theory e WebAssembly, no momento estudando um pouco de Rust e System design
-- Pareço um pouco na minha, mas estou sempre aberto pra ajudar qualquer pessoa. Sinta-se livre para me mandar mensagem em qualquer lugar.
+- Passionate about the Open Source community and also about Linux, obviously. I always try to contribute to a cool project when I can.
+- I love studying Type theory and WebAssembly, currently studying a bit of Ocaml and System design
+- I'm always open to helping. Feel free to message me!
 
-## Minhas ferramentas favoritas:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100" height="100" />
-
-## Você pode me achar em:
+## You can find me here:
 
 <div>
 <a href = "mailto:contato@enzo.ito@madeiramadeira.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/enzo-massaki-a36151213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Alguns status:
+## Some stats:
 <div>
 <a href="https://github.com/enzoito">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoito&layout=compact&langs_count=7&theme=dracula"/>
