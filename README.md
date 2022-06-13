@@ -7,7 +7,7 @@
 
 <h2> Trivia:</h2>
 <p> - Passionate about the Open Source community and also about Linux, obviously. I always try to contribute to a cool project when I can.
-<p> - I love studying Type theory and WebAssembly, currently studying a bit of Ocaml and System design.
+<p> - I love studying Type theory and WebAssembly, currently studying a bit of Haskell and System design.
 <p> - I'm always open to help. Feel free to message me!
 <p> - Benchi, my cat, allways review my code.
   
