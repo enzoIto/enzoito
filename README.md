@@ -1,18 +1,26 @@
-# Sup, I'm Enzo. 
+<h1> Sup, I'm Enzo. 
 
-## Backend Enginner fascinated about PLT (Programming Language Theory) 🤷🏻‍♂️
+<h2> About me: </h2>
 
-## (you can call me Enzito = Enzo + ito). You can find me out there drinking coffee and doing some programming with Benchi, the mind behind my codes, my cat 🐱.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/106115847/171254797-879b392b-9efa-4d8c-899c-1d02e3ff6520.gif" width=160 height=160>
+<p>👨‍💻 &ensp; Back-end developer &ensp; | &ensp; ☕ &ensp; Coffee addict &ensp; | &ensp; 🐈 &ensp; Benchi's father &ensp;
+  
+
+<h2> Trivia:</h2>
+<p> - Passionate about the Open Source community and also about Linux, obviously. I always try to contribute to a cool project when I can.
+<p> - I love studying Type theory and WebAssembly, currently studying a bit of Ocaml and System design.
+<p> - I'm always open to help. Feel free to message me!
+<p> - Benchi, my cat, allways review my code.
+  
+<h2>Techs and tools I like to work with</h2>
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_32x32.png">&ensp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&ensp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg"/>&ensp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&ensp;
 </p>
-
-## About me:
-- Passionate about the Open Source community and also about Linux, obviously. I always try to contribute to a cool project when I can.
-- I love studying Type theory and WebAssembly, currently studying a bit of Ocaml and System design
-- I'm always open to helping. Feel free to message me!
-
-## You can find me here:
+  
+  
+  <h2> You can find me here:</h2>
 
 <div>
 <a href = "mailto:contato@enzo.ito@madeiramadeira.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
