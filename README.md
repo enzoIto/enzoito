@@ -15,7 +15,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_32x32.png">&ensp;
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&ensp;
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg"/>&ensp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"/>&ensp;
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&ensp;
 </p>
   
